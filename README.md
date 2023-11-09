@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DevLooptt
-- 🌱 Currently an undergraduate student majoring in computer science in SJTU 
-- 🔊 My email is 903081501@qq.com. Welcome if you have any questions or you just wanna talk !
+- 👋 Hi, I’m Ruitao Zhu
+- 🌱 Currently a Ph.D. student majoring in computer science at SJTU, where I am supervised by Professor Zhenzhe Zheng and Fan Wu in ANL lab. 
+- 🔊 My email is sjtu_zrt@sjtu.edu.com. Welcome if you have any questions or you just wanna talk!
